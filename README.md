@@ -9,7 +9,8 @@ Sistema de controle de entradas e saídas financeiras com cálculo automático d
 - Organização financeira básica
 
 ## Tecnologias
-- Python
+- Excel
+  Arquivo xlsx
 
 ## Objetivo
 Projeto voltado para gestão financeira e estruturação de dados.
